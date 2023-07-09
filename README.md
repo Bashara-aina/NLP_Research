@@ -14,4 +14,7 @@ For the GPT pairing, GPT-RCNN shows the best result in every aspect
 
 For the BERT-GPT shows pretty high precision score, but for the other metrics. Put the GPT first in the first layer shows better result
 <br>
+<br>
 <a href="https://huggingface.co/datasets/imdb">IMDB</a>
+My target is to compete with the other model in this leaderboard of combining BERT-GPT for doing sentiment analysis task with several methodology in fine-tuning. <a href="https://paperswithcode.com/sota/sentiment-analysis-on-imdb">Papers With Code Leaderboard Models</a>
+
