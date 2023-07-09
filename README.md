@@ -7,7 +7,7 @@ Dataset <br>
 <br>
 ![Alt text](/Result/Result-Amazon.png "Result of Amazon Dataset")
 <br>
-Epoch = 10, 10k rows, 1e-5 lr, 15% test size
+Epoch = 10, 10k rows, 1e-5 lr, 15% test size <br>
 The result of Amazon Dataset shows that BERT-RCNN is the best for the precision, but for the other metrics (accuracy, F1-Score, and Time) Bert-Base shows the best
 
 For the GPT pairing, GPT-RCNN shows the best result in every aspect
