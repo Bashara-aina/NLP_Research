@@ -19,7 +19,7 @@ For the BERT-GPT shows pretty high precision score, but for the other metrics. P
 <br>
 My target is to compete with the other model in this leaderboard of combining BERT-GPT for doing sentiment analysis task with several methodology in fine-tuning. <a href="https://paperswithcode.com/sota/sentiment-analysis-on-imdb">Papers With Code Leaderboard Models</a> <br>
 
-## 100% of Accuracy with BERT-GPT Model
+## 100% of Accuracy with BERT-GPT Model with L1/L2 Generelization and K-fold Method
 
 ![Alt text](/Result/Result-IMDB.jpeg "Result of IMDB Dataset")
 
