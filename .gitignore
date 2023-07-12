@@ -191,3 +191,7 @@ Playground/multi_cased_L-12_H-768_A-12/bert_model.ckpt.data-00000-of-00001
 Playground/multi_cased_L-12_H-768_A-12/bert_model.ckpt.index
 Playground/multi_cased_L-12_H-768_A-12/bert_model.ckpt.meta
 Playground/multi_cased_L-12_H-768_A-12/vocab.txt
+amazon_us_reviews/
+GPT/.ipynb_checkpoints/GPT-BERT-small-earlystop-l1l2-trial exception_sst2-checkpoint.ipynb
+GPT/.ipynb_checkpoints/GPT-BERT-small-earlystop-l1l2-trial exception_amazon-checkpoint.ipynb
+BERT/.ipynb_checkpoints/BERT-GPT-small-earlystop-l1l2-trial exception_sst2-checkpoint.ipynb
